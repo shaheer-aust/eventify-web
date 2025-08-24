@@ -43416,7 +43416,7 @@ while(true)switch(s){case 0:p="images/"+Date.now()+".png"
 o=B.m7.gIc().dS(a)
 n=t.N
 s=3
-return A.K(A.aZn(A.iz("https://api.github.com/repos/shaheer-aust/eventify/contents/"+p),'{"message": "Upload image", "content": "'+o+'"}',A.ao(["Authorization","token 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","Accept","application/vnd.github.v3+json"],n,n)),$async$Cg)
+return A.K(A.aZn(A.iz("https://api.github.com/repos/shaheer-aust/eventify/contents/"+p),'{"message": "Upload image", "content": "'+o+'"}',A.ao(["Authorization","token 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","Accept","application/vnd.github.v3+json"],n,n)),$async$Cg)
 case 3:m=c
 n=m.b
 A.a_i().$1("Status code: "+n)
